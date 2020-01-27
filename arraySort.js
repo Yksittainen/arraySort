@@ -1,6 +1,3 @@
-<script>
-"use strict"
-
 function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
 }
@@ -37,5 +34,3 @@ return sortedArray;
 let sortedArray = sortArray(sourceArray);
 
 console.log(sortedArray);
-
-</script>
